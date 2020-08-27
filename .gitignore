@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+.vscode
+day1-duplicate_in_an_array
